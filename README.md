@@ -1,2 +1,6 @@
 # PyGithubAPI
-Scripts i wrote playing around with github's restAPI
+Python scripts i wrote messing around with github's restAPI.
+# Features  
+
+ - Create repository
+ - Delete repository
